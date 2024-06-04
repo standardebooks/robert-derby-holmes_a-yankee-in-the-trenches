@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="loi.xhtml">
+		<ignore>
+			<code>m-034</code>
+			<reason>No illustrator, only photos</reason>
+		</ignore>
+	</file>
+	<file path="glossary-search-key-map.xml">
+		<ignore>
+			<code>m-070</code>
+			<reason>Terms not found in text</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
