@@ -55,8 +55,8 @@
 		<match value="bully beef"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#carry-on">
-		<match value="carry on">
-			<value value="carrying on"/>
+		<match value="carrying on">
+			<value value="carried on"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#char">
@@ -90,7 +90,9 @@
 		<match value="doggo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#doing-in">
-		<match value="doing in"/>
+		<match value="do me in">
+			<value value="do us in"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#doss">
 		<match value="doss"/>
@@ -162,7 +164,9 @@
 		<match value="lance corporal"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lewis-gun">
-		<match value="lewis gun"/>
+		<match value="lewis">
+			<value value="lewises"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#light-railway">
 		<match value="light railway"/>
@@ -183,7 +187,7 @@
 		<match value="military cross"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#military-medal">
-		<match value="military medal"/>
+		<match value="medal"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mills">
 		<match value="mills"/>
@@ -201,7 +205,9 @@
 		<match value="no man’s land"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#on-your-own">
-		<match value="on your own"/>
+		<match value="on our own">
+			<value value="on their own"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#out">
 		<match value="out"/>
@@ -225,10 +231,10 @@
 		<match value="persuader"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pip-squeak">
-		<match value="pip squeak"/>
+		<match value="pip-squeak"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#push-up-the-daisies">
-		<match value="push up the daisies"/>
+		<match value="pushing up the daisies"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ration-party">
 		<match value="ration party"/>
