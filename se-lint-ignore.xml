@@ -6,10 +6,4 @@
 			<reason>No illustrator, only photos</reason>
 		</ignore>
 	</file>
-	<file path="glossary-search-key-map.xml">
-		<ignore>
-			<code>m-070</code>
-			<reason>Terms not found in text</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>

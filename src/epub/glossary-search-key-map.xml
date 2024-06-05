@@ -260,9 +260,6 @@
 	<search-key-group href="text/glossary.xhtml#stand-to">
 		<match value="stand to"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#stand-down">
-		<match value="stand down"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#stokes">
 		<match value="stokes"/>
 	</search-key-group>
@@ -278,14 +275,8 @@
 	<search-key-group href="text/glossary.xhtml#wave">
 		<match value="wave"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#whacked">
-		<match value="whacked"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#whiz-bang">
 		<match value="whiz-bang"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#wind-up">
-		<match value="wind up"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#windy">
 		<match value="windy"/>
