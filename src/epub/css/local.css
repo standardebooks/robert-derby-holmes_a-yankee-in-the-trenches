@@ -82,6 +82,12 @@ section[epub|type~="dedication"] > *{
 }
 /* end centered dedications */
 
+section[epub|type~="dedication"] p{
+	font-variant: small-caps;
+	max-width: 50%;
+	text-align: justify;
+}
+
 /* figure */
 figure{
 	break-inside: avoid;
