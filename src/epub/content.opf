@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-06-19T19:16:44Z</dc:date>
+		<meta property="dcterms:modified">2024-06-19T19:16:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,16 +35,15 @@
 		<meta property="term" refines="#subject-1">sh2010007643</meta>
 		<meta property="se:subject">Autobiography</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">An American describes his experiences with the British Army in the First World War.</dc:description>
+		<dc:description id="description">An American describes his experiences in the British Army in the First World War.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Before the United States enters the First World War, &lt;a href="https://standardebooks.org/ebooks/robert-derby-holmes"&gt;Robert Derby Holmes&lt;/a&gt; makes his way from Boston to England to join the British army. He is looking for adventure and has some vague sympathy for the Allied side. The narrative ranges from the everyday discomforts of living in the trenches—with the mud, “cooties,” and work details—to the terrifying and deadly battles against the Germans on the Western Front. Scenes include going “over the top,” sneaking around on patrol, and seeing some of the first tanks do their work.&lt;/p&gt;
-			&lt;p&gt;The author is little known and this book seems to be his only published work. It is autobiographical, and a personal memory of his experience in the war. The horror of war is lightened by Holmes’ sense of humor throughout. The book was well received, as one of many war tales coming out at the time.&lt;/p&gt;
+			&lt;p&gt;Before the United States entered the First World War, &lt;a href="https://standardebooks.org/ebooks/robert-derby-holmes"&gt;Robert Derby Holmes&lt;/a&gt; made his way from Boston to England to join the British army. He’s looking for adventure, and has some vague sympathy for the Allied side. Afterwards, he wrote this personal memoir about his experiences. The narrative ranges from the everyday discomforts of living in the trenches—with the mud, “cooties,” and work details—to the terrifying and deadly battles against the Germans on the Western Front. The horror of war is lightened by Holmes’ sense of humor, and scenes include going “over the top,” sneaking around on patrol, and seeing some of the first tanks in action.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13279</dc:source>
 		<dc:source>https://archive.org/details/yankeeintrenches00holm</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">40248</meta>
+		<meta property="se:reading-ease.flesch">81.22</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-derby-holmes_a-yankee-in-the-trenches</meta>
 		<dc:creator id="author">Robert Derby Holmes</dc:creator>
 		<meta property="file-as" refines="#author">Holmes, Robert Derby</meta>
@@ -71,6 +70,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
