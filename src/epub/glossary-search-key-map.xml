@@ -110,7 +110,9 @@
 		<match value="dump"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#entrenching-tool">
-		<match value="entrenching tool"/>
+		<match value="entrenching tool">
+			<value value="entrenching tools"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#estaminet">
 		<match value="estaminet"/>
@@ -134,7 +136,9 @@
 		<match value="fritz"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#funk-hole">
-		<match value="funk hole"/>
+		<match value="funk hole">
+			<value value="funk holes"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gas">
 		<match value="gas"/>
@@ -152,7 +156,9 @@
 		<match value="hun"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#identification-disc">
-		<match value="identification disc"/>
+		<match value="identification disc">
+			<value value="identification discs"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#iron-rations">
 		<match value="iron rations"/>
@@ -187,7 +193,9 @@
 		<match value="military cross"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#military-medal">
-		<match value="medal"/>
+		<match value="medal">
+			<value value="medals"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mills">
 		<match value="mills"/>
@@ -246,7 +254,9 @@
 		<match value="ruddy"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sandbag">
-		<match value="sandbag"/>
+		<match value="sandbag">
+			<value value="sandbags"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sentry-go">
 		<match value="sentry go"/>
