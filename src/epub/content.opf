@@ -48,6 +48,7 @@
 		<dc:creator id="author">Robert Derby Holmes</dc:creator>
 		<meta property="file-as" refines="#author">Holmes, Robert Derby</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">C. R. W. Nevinson</dc:contributor>
 		<meta property="file-as" refines="#artist">Nevinson, C. R. W.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/C._R._W._Nevinson</meta>
