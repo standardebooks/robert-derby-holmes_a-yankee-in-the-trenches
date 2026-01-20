@@ -42,7 +42,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13279</dc:source>
 		<dc:source>https://archive.org/details/yankeeintrenches00holm</dc:source>
-		<meta property="se:word-count">40248</meta>
+		<meta property="se:word-count">39851</meta>
 		<meta property="se:reading-ease.flesch">81.22</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-derby-holmes_a-yankee-in-the-trenches</meta>
 		<dc:creator id="author">Robert Derby Holmes</dc:creator>
