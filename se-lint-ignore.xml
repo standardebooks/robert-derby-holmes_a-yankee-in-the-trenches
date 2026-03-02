@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="loi.xhtml">
-		<ignore>
-			<code>m-034</code>
+		<ignore code="m-034">
 			<reason>No illustrator, only photos</reason>
 		</ignore>
 	</file>
