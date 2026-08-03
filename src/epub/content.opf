@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/robert-derby-holmes/a-yankee-in-the-trenches</dc:identifier>
 		<dc:date>2024-06-19T19:16:44Z</dc:date>
@@ -36,10 +36,10 @@
 		<meta property="term" refines="#subject-1">sh2010007643</meta>
 		<meta property="schema:genre">Autobiography</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:description id="description">An American describes his experiences in the British Army in the First World War.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An American describes his experiences in the British Army in the First World War.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Before the United States entered the First World War, &lt;a href="https://standardebooks.org/ebooks/robert-derby-holmes"&gt;Robert Derby Holmes&lt;/a&gt; made his way from Boston to England to join the British army. He’s looking for adventure, and has some vague sympathy for the Allied side. Afterwards, he wrote this personal memoir about his experiences. The narrative ranges from the everyday discomforts of living in the trenches—with the mud, “cooties,” and work details—to the terrifying and deadly battles against the Germans on the Western Front. The horror of war is lightened by Holmes’ sense of humor, and scenes include going “over the top,” sneaking around on patrol, and seeing some of the first tanks in action.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13279</dc:source>
 		<dc:source>https://archive.org/details/yankeeintrenches00holm</dc:source>
