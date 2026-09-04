@@ -31,7 +31,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">A Yankee in the Trenches</dc:title>
 		<meta property="file-as" refines="#title">Yankee in the Trenches, A</meta>
-		<dc:subject id="subject-1">World War, 1914-1918 -- Personal narratives</dc:subject>
+		<dc:subject id="subject-1">World War, 1914-1918--Personal narratives</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2010007643</meta>
 		<meta property="schema:genre">Autobiography</meta>
